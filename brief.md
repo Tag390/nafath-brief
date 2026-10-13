@@ -16,7 +16,16 @@ Mobile security is important when people access public services through smartpho
 
 Resource: https://mas.owasp.org/
 ## Networking
+Secure networking ensures that systems communicate safely and reliably. Important measures include network segmentation, firewalls, secure protocols, traffic monitoring, and timely patching of network devices. For a public-service AI assistant, network controls can reduce unauthorized access and limit the spread of attacks. Network monitoring also helps security teams detect unusual activity and maintain service availability.
+
+Resource: https://www.nist.gov/cyberframework
 ## Cybersecurity
+Cybersecurity protects systems, networks, and information against unauthorized access, disruption, and misuse. A trustworthy public-service AI assistant should use least-privilege access, multifactor authentication where appropriate, vulnerability management, security logging, and incident response procedures. Regular security assessments can reveal weaknesses before attackers exploit them. These controls support confidentiality, integrity, and availability while helping maintain public confidence in digital services.
+
+Resource: https://www.cisa.gov/topics/cybersecurity-best-practices
 ## Data 
+Data governance helps ensure that information is accurate, protected, and used appropriately. A public-service AI assistant should collect only the data it needs, restrict access to authorized users, protect sensitive information, and define retention periods. Data quality checks and reliable sources can improve answer accuracy. Clear privacy practices also help users understand how their information is handled and reduce unnecessary exposure of personal data.
+
+Resource: https://www.nist.gov/privacy-framework
 ## Misconception in My Track
 ## Open Question
