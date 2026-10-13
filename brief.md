@@ -28,4 +28,8 @@ Data governance helps ensure that information is accurate, protected, and used a
 
 Resource: https://www.nist.gov/privacy-framework
 ## Misconception in My Track
+A common misconception in cybersecurity is that prompt injection can always be prevented by blocking suspicious words in a user's message. In reality, prompt injection may use indirect instructions hidden in documents or other content processed by an AI system. Keyword filtering alone is not a reliable defense. Systems should treat external content as untrusted, limit the assistant's permissions, validate actions, and test defenses regularly. These measures reduce risk but cannot guarantee complete prevention.
+
+Resource: OWASP Top 10 for LLM Applications — LLM01: Prompt Injection
 ## Open Question
+How can we evaluate whether an AI assistant's defenses against direct and indirect prompt injection remain effective when new attack techniques emerge?
